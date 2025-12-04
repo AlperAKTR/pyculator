@@ -2,7 +2,7 @@ A simple and interactive command line calculator built with Python.
 Supports both single number operations and multi number operations.
 
 Features
-
+-------------
 -Safe input handling
 -Single operations: absolute value, square root, power of two, power of three, factorial, round
 -Multi operations: addition, subtraction, multiplication, division, modulus
@@ -12,7 +12,7 @@ Features
 -Usage Example
 
 Choose your operation:
-
+------------------
 1. Absolute Value
 2. Square Root
 3. Power of Two
@@ -26,7 +26,7 @@ Choose your operation:
 11. Modulus
 
 Example:
-
+------------------
 Operation: 7
 1 Enter number: 5
 2 Enter number: 10
@@ -37,11 +37,11 @@ Select operator: -
 History: 5 + 10 - 3 = 12
 
 How to Run
-
+---------------
 python pyculator.py
 
 License
-
+-------------
 MIT License
 
 Feel free to use <3
