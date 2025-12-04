@@ -1,3 +1,5 @@
+*** Pycluator ***
+-------------
 A simple and interactive command line calculator built with Python.
 Supports both single number operations and multi number operations.
 
